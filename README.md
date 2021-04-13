@@ -1,0 +1,2 @@
+# dashboard
+Yönetim Paneli
